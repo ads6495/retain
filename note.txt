@@ -1,0 +1,11 @@
+CONTROLLERS: 
+    Controllers are responsible for handling incoming requests and returning responses to the client.
+        recieve requests POST PUT PATCH GET DELETE
+        has more than one route per controller
+                     
+                            |---> CONTROLLER 
+        client --HTTP REQ---|---> CONTROLLER    
+                            |---> CONTROLLER 
+
+
+MODULE: 
