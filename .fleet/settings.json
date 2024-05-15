@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.ai"
+        }
+    ],
+    "nodejs.editor.formatOnSave.stylelint.mode": "Auto"
+}
